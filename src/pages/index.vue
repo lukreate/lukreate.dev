@@ -36,9 +36,9 @@
         <div class="flex flex-col items-center">
           <img class="h-32 w-32" src="https://lukreate.sgp1.digitaloceanspaces.com/images/drift-logo.png">
 
-          <h2 class="mt-4 text-xl font-bold text-gray-900">Drift SMS</h2>
+          <h2 class="mt-4 text-xl font-bold dark:text-white text-gray-900">Drift SMS</h2>
 
-          <p class="mt-1 text-sm text-gray-600 text-center">
+          <p class="mt-1 text-sm dark:text-gray-300 text-gray-600 text-center">
             Hassle Free Bulk SMS and Campaign Management Tool.
           </p>
         </div>
@@ -52,9 +52,9 @@
         <div class="flex flex-col items-center">
           <img class="h-32 w-32" src="https://lukreate.sgp1.digitaloceanspaces.com/images/write_mv-New.svg">
 
-          <h2 class="mt-4 text-xl font-bold text-gray-900">Write.mv</h2>
+          <h2 class="mt-4 text-xl font-bold dark:text-white text-gray-900">Write.mv</h2>
 
-          <p class="mt-1 text-sm text-gray-600 text-center">
+          <p class="mt-1 text-sm dark:text-gray-300 text-gray-600 text-center">
             Write mv is an open source platform to write,share and spread your words online.
           </p>
         </div>
@@ -68,9 +68,9 @@
         <div class="flex flex-col items-center">
           <img class="h-32 w-32" src="https://lukreate.sgp1.digitaloceanspaces.com/images/vocalize.png">
 
-          <h2 class="mt-4 text-xl font-bold text-gray-900">Vocalize</h2>
+          <h2 class="mt-4 text-xl font-bold dark:text-white text-gray-900">Vocalize</h2>
 
-          <p class="mt-1 text-sm text-gray-600 text-center">
+          <p class="mt-1 text-sm dark:text-gray-300 text-gray-600 text-center">
             Produce clear, natural sounding speech from your
             dhivehi content for digital broadcasting
             using text-to-speech technology.
