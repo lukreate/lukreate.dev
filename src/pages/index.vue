@@ -68,8 +68,6 @@
         <div class="flex flex-col items-center">
           <img class="h-32 w-32" src="https://lukreate.sgp1.digitaloceanspaces.com/images/vocalize.png">
 
-          <h2 class="mt-4 text-xl font-bold dark:text-white text-gray-900">Vocalize</h2>
-
           <p class="mt-1 text-sm dark:text-gray-300 text-gray-600 text-center">
             Produce clear, natural sounding speech from your
             dhivehi content for digital broadcasting
