@@ -18,6 +18,10 @@
       Interested hire us?
     </h2>
 
+    <p class="text-base mt-2 text-gray-700">
+      Drop us an email at: <a class="hover:underline" href="mailto:lukreatedev@gmail.com">lukreatedev@gmail.com</a>
+    </p>
+
     <div class="border-t border-gray-300/[.50] h-[1px] my-16 lg:my-[80px]" />
 
     <h2 class="font-bebas text-[27px] text-sky-700 tracking-wide mb-3">
