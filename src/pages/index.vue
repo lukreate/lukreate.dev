@@ -51,7 +51,7 @@
 
       <a
         class="block rounded-xl border border-gray-200 p-8  transition hover:border-blue-500"
-        href="https://driftsms.com"
+        href="https://write.mv"
       >
         <div class="flex flex-col items-center">
           <img class="h-32 w-32" src="https://lukreate.sgp1.digitaloceanspaces.com/images/write_mv-New.svg">
@@ -67,7 +67,7 @@
 
       <a
         class="block rounded-xl border border-gray-200 p-8  transition hover:border-blue-500"
-        href="https://driftsms.com"
+        href="https://vocalize.mv"
       >
         <div class="flex flex-col items-center">
           <img class="h-32 w-32" src="https://lukreate.sgp1.digitaloceanspaces.com/images/vocalize.png">
